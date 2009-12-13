@@ -47,12 +47,12 @@ end</string>
 	<string>word</string>
 	<key>input</key>
 	<string>selection</string>
+	<key>keyEquivalent</key>
+	<string>~@D</string>
 	<key>name</key>
 	<string>Big Huge Labs Thesaurus</string>
 	<key>output</key>
 	<string>replaceSelectedText</string>
-	<key>scope</key>
-	<string>text.html, text.html.markdown, text.html.markdown.multimarkdown</string>
 	<key>uuid</key>
 	<string>5DEA97F2-71C8-483B-86E3-C87E2F592E66</string>
 </dict>
